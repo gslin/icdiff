@@ -1,4 +1,4 @@
-icdiff (0.0.20141211) unstable; urgency=low
+icdiff (0.0.20141211) %%CODENAME%%; urgency=low
 
   * Initial Release.
 
