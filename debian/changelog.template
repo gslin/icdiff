@@ -1,3 +1,7 @@
+icdiff (0.0.20141211-1) %%CODENAME%%; urgency=low
+
+  * Bump version.
+
 icdiff (0.0.20141211) %%CODENAME%%; urgency=low
 
   * Initial Release.
