@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CODENAMES="precise trusty"
+CODENAMES="lucid precise trusty utopic"
 
 debuild clean
 rm -f ../icdiff_*
