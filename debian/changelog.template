@@ -1,4 +1,4 @@
-icdiff (0.0.20141211) %%CODENAME%%; urgency=low
+icdiff (0.0.20141211~%%CODENAME%%ppa1) %%CODENAME%%; urgency=low
 
   * Initial Release.
 
