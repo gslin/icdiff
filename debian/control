@@ -1,0 +1,16 @@
+Source: icdiff
+Section: utils
+Priority: extra
+Maintainer: Gea-Suan Lin <gslin@gslin.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://www.jefftk.com/icdiff
+#Vcs-Git: git://git.debian.org/collab-maint/icdiff.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/icdiff.git;a=summary
+
+Package: icdiff
+Architecture: all
+Depends: python
+Description: improved colored diff
+ Your terminal can display color, but most diff tools don't make good use of it. By highlighting changes, icdiff can show you the differences between similar files without getting in the way. This is especially helpful for identifying and understanding small changes within existing lines.
+ Instead of trying to be a diff replacement for all circumstances, the goal of icdiff is to be a tool you can reach for to get a better picture of what changed when it's not immediately obvious from diff.
