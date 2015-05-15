@@ -1,3 +1,9 @@
+icdiff (1.7.3~%%CODENAME%%ppa1) %%CODENAME%%; urgency=low
+
+  * Update to 1.7.3.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 15 May 2015 21:14:00 +0800
+
 icdiff (0.0.20141211~%%CODENAME%%ppa1) %%CODENAME%%; urgency=low
 
   * Initial Release.
